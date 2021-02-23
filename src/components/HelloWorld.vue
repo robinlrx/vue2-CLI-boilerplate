@@ -42,6 +42,16 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
+@font-face {
+	font-family: Gilroy;
+	src: url("../assets/fonts/Gilroy-Regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+h1{
+	font-family: Gilroy;
+	color: #42b983;
+}
 h3 {
 	margin: 40px 0 0;
 }
