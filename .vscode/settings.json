@@ -1,0 +1,9 @@
+{	
+	"vetur.format.options.useTabs": true,
+	"vetur.format.defaultFormatterOptions": {
+		"js-beautify-html": {
+			"wrap_attributes": "auto"
+		}
+	},
+	"editor.formatOnSave": true,
+}
