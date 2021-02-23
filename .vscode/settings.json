@@ -1,13 +1,9 @@
 {	
 	"vetur.format.options.useTabs": true,
-	"vetur.validation.templateProps": true,
 	"vetur.format.defaultFormatterOptions": {
 		"js-beautify-html": {
 			"wrap_attributes": "auto"
 		}
 	},
 	"editor.formatOnSave": true,
-	"vetur.format.scriptInitialIndent": true,
-	"vetur.format.styleInitialIndent": false,
-	"vetur.format.defaultFormatter.js": "prettier-eslint"
 }
