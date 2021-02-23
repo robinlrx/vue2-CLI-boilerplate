@@ -8,7 +8,7 @@ A vue 2.x CLI template to start Vue projects based on [Vue CLI](https://cli.vuej
 - [eslint-plugin-es-beautifier](https://github.com/dai-shi/es-beautifier#usage-eslint-plugin) for vue html template (``` npm install eslint eslint-plugin-es-beautifier --save-dev ```)
 - [eslint-config-airbnb](https://github.com/airbnb/javascript) (chosen with Vue CLI)
 
-> ### See files :
+> ### ℹ️ See files :
 >
 > - *.eslintrc.js* for eslint rules
 > - *settings.json* for VS Code workspace settings
