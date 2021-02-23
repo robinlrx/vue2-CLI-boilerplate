@@ -39,5 +39,6 @@ module.exports = {
 				ignoreWhenBindingPresent: false,
 			},
 		],
+		'vue/mustache-interpolation-spacing': ['error', 'always'],
 	},
 };
