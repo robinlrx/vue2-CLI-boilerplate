@@ -1,8 +1,8 @@
-# Vue 2 CLI template
+# Vue 2 CLI boilerplate
 
-A vue 2.x CLI template to start Vue projects based on [Vue CLI](https://cli.vuejs.org/)
+A vue 2.x CLI boilerplate to start Vue projects based on [Vue CLI](https://cli.vuejs.org/)
 
-## About this template
+## About this boilerplate
 
 ### Installed packages
 - [eslint-plugin-es-beautifier](https://github.com/dai-shi/es-beautifier#usage-eslint-plugin) for vue html template (``` npm install eslint eslint-plugin-es-beautifier --save-dev ```)
@@ -36,4 +36,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Template link
-https://github.com/robinlrx/vue2-CLI-template
+https://github.com/robinlrx/vue2-CLI-boilerplate
