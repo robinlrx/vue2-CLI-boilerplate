@@ -1,6 +1,8 @@
 {
   "name": "vue2-cli-boilerplate",
   "version": "0.1.0",
+  "homepage": "https://github.com/robinlrx/vue2-CLI-boilerplate#readme",
+  "author": "Robin",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
